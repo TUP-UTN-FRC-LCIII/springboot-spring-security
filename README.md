@@ -1,2 +1,3 @@
-# lciii-scaffolding
-This is the initial scaffolding
+# Spring Security Example
+
+This is an example of Spring Security
